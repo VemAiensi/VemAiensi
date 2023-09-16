@@ -25,10 +25,10 @@
 
 <h2 align="Center">CERTIFICATES EARNED</h3>
 <p align="center" > 
-  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/BAWE.png" width="150" height="100"/>
-  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCDM%20Certificate.png" width="150" height="100"/> 
-  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCI%20Certificate.png" width="150" height="100"/>
-  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/SQL%20RD%20101.png" width="150" height="100"/>
+  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/BAWE.png" width="20%"/>
+  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCDM%20Certificate.png" width="20%"/> 
+  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCI%20Certificate.png" width="20%"/>
+  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/SQL%20RD%20101.png" width="20%"/>
 </p>
 <!--
 **VemAiensi/VemAiensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
