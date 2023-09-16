@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Certificates.svg)
+<div style="width: 100%;">
+  <img src="Certificates.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 <h3 align="center">I'm a learning student!</h3>
 
