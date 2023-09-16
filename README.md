@@ -1,13 +1,12 @@
 <div style="width: 100%;">
   <img src="Certificates.svg" style="width: 100%;" alt="Click to see the source">
 </div>
-<h3 align="center">I'm a learning student!</h3>
 
 
-
+<h3 align="center"></h3>
 <table style="width:100%">
   <tr>
-    <th style="border:white";>
+    <th>
     What I learned so far
     </th>
   <th></th>
