@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="Certificates.svg" style="width: 100%;" alt="Click to see the source">
+  <img src="Banner.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 <h2 align="leftr">Still Learning</h3>
