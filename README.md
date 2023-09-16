@@ -2,7 +2,7 @@
   <img src="Certificates.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-# What I learned so far...
+<h2 align="leftr">Still Learning</h3>
 <table style="width:100%">
   <tr>
     <th width="70%">
