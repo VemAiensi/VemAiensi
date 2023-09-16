@@ -2,8 +2,6 @@
   <img src="Certificates.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-
-<h3 align="center"></h3>
 <table style="width:100%">
   <tr>
     <th>
