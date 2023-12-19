@@ -3,7 +3,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/nrachero/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto: acheronorielr@gmail.com">
+    <a href="mailto: vem.aiensi@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
     <a href="https://www.facebook.com/nrachero/">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
@@ -33,37 +33,36 @@
 
 ***
 
-<h2 align="leftr">CERTIFICATES EARNED:</h3>
+# CERTIFICATES EARNED:
 <table>
     <th width="90%%">
       <p align="center" > 
         <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/BAWE.png" width="45%"/>
-        <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCDM%20Certificate.png" width="45%"/>            <br> 
+        <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCDM%20Certificate.png" width="45%"/><br> 
         <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCI%20Certificate.png" width="45%"/>
         <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/SQL%20RD%20101.png" width="45%"/>
       </p>
     </th>
 </table>
 
-<img align="right"  width=400
+***
+
+<img align="right"  width=450
         src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/ImComputing-min.gif"/>
-## Bio
+# BIO
 
-A computer Science student at New Era University College of Computer Studies who 
+Hello and thank you for visiting my profile!
+I am Vem Aiensi Marasigan which existed since 2003. I've been living in a small yet complex world. But still I am willing to expand my world and discover new ideas no matter the complexity it may posses.
 
-| **Likes** | 
-**Likes**
-- Cats
-- Clean Room
-- Vegetables
+| **Likes** | **Hobbies** |
+| --- | --- |
+| 🐈 Cats | 🎵 Playing Instruments |
+| 🧹 Clean Room | 🖌️ Digital Art |
+| 🥬 Vegetables | 🧊 3D |
 
-**Hobbies**
-- 🎵 Playing Instruments
-- 🖌️ Digital Art
-- 🧊 3D 
-
-**Goal**
-- ❕Gain power❕
+**MOTIVATION**
+> I can't save someone if I am powerless
+> > I need more power... absolute power... the power of Intelligence
 
 
 <!--
