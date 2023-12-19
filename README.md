@@ -14,6 +14,9 @@
 </p>
 
 <h3 align="center">Computer Science Student at New Era University College of Computer Studies</h3>
+<p align="center"><i>Living in a complicated world of IT</i></p>
+
+<br>
 
 
 <h2 align="Center">📖 STUDYING 📖</h2>
@@ -51,8 +54,9 @@
         src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/ImComputing-min.gif"/>
 # BIO
 
-Hello and thank you for visiting my profile!
-I am Vem Aiensi Marasigan which existed since 2003. I've been living in a small yet complex world. But still I am willing to expand my world and discover new ideas no matter the complexity it may posses.
+**Hello and thank you for visiting my profile!**
+
+I am **Vem Aiensi A. Marasigan** which existed since 2003. I've been living in a small yet complex world. But still I am willing to expand my world and discover new ideas no matter the complexity it may posses.
 
 | **Likes** | **Hobbies** |
 | --- | --- |
