@@ -51,7 +51,7 @@
 ***
 
 <img align="right"  width=450
-        src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/ImComputing-min.gif"/>
+        src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Fixed.gif"/>
 # BIO
 
 **Hello and thank you for visiting my profile!**
