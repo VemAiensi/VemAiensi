@@ -5,10 +5,6 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto: vem.aiensi@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
-    <a href="https://www.facebook.com/profile.php?id=100055548079831">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-    <a href="https://www.instagram.com/vem413n51/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://t.me/Vinc3203">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
@@ -34,37 +30,41 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="5%"/> </a> &nbsp &nbsp
 </p>
 
-***
 
-# CERTIFICATES EARNED:
-<table>
-    <th width="90%%">
-      <p align="center" > 
-        <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/BAWE.png" width="45%"/>
-        <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCDM%20Certificate.png" width="45%"/><br> 
-        <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/OCI%20Certificate.png" width="45%"/>
-        <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Certificates/SQL%20RD%20101.png" width="45%"/>
-      </p>
-    </th>
-</table>
 
-***
+## CERTIFICATES EARNED:
 
-<img align="right"  width=450
-        src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/Fixed.gif"/>
-# BIO
+* [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9A7C6DC465649783402FD05DE8EF133AE9EAF50961B0F42AB159DA4CD077D7B3)
+* [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F02DB10C92813FBF882F32E11E1E2FA934891415BD572E2082CE52C861492B60)
+* [SQL and Relational Database 101](https://courses.cognitiveclass.ai/certificates/16fec48d0d16496ca59defe1e5b2c92b)
+* [Business Analytics with Excel](https://simpli-web.app.link/e/G4wPXQ2M8Kb)
 
-**Hello and thank you for visiting my profile!**
 
-I am **Vem Aiensi A. Marasigan** which existed since 2003. I've been living in a small yet complex world. But still I am willing to expand my world and discover new ideas no matter the complexity it may posses.
+## TECH ACHIEVEMENT:
+<img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="15"/>
+Power BI
 
-| **Likes** | **Hobbies** |
-| --- | --- |
-| 🐈 Cats | 🎵 Playing Instruments |
-| 🧹 Clean Room | 🖌️ Digital Art |
-| 🥬 Vegetables | 🧊 3D |
+* [Super Store Sales Report](https://app.powerbi.com/view?r=eyJrIjoiMTNkMmJjZGItZWY4YS00YWUzLThmOGQtZGMyMTE2MWMzMzFlIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
+* [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiMWQ0YmIzYjItNTYyZC00MDA2LTgxMWUtNWFjYmZjMTBiYTcxIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
+* [Soda Report](https://app.powerbi.com/view?r=eyJrIjoiYzIxM2EzZDctMzdiMy00OGRmLTg5NDItYjUxODVmMDVmZTFjIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
 
-**MOTIVATION**
-> I can't save someone if I am powerless
-> > I need more power... absolute power... the power of Intelligence
+<img src="https://img.icons8.com/?size=100&id=120409&format=png&color=000000" width="15"/>
+Design Patterns
+
+* [See Repo here](https://github.com/VemAiensi/Design-Patterns-Journey)
+
+## SKILL SET:
+| Data Visualization | Languages | Dev Tools |
+| :--- | :---: | ---: |
+|  Power BI | Java | VS Code |
+| Tableau Public | Python | Lucid Chart |
+| | PHP | Jupyter Notebook|
+
+
+
+## BIO:
+
+*Hello and thank you for visiting my profile!*
+
+
 
