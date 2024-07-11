@@ -18,16 +18,18 @@
 <h2 align="Center">📖 STUDYING 📖</h2>
 
 <p align="center" >
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="5%"/> </a>  &nbsp &nbsp
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/> </a>  &nbsp &nbsp
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/> </a>  &nbsp &nbsp
-  <a href="https://www.blender.org/" target="_blank"> <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/blender_icon_64x64.png" alt="blender" width="5%"/> </a> &nbsp &nbsp
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/></a> &nbsp &nbsp
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%"/> </a> &nbsp &nbsp
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/> </a> &nbsp &nbsp
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/> </a> &nbsp &nbsp
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/> </a> &nbsp &nbsp
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="5%"/> </a> &nbsp &nbsp
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="5%"/> &nbsp &nbsp
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"  width="5%"/> &nbsp &nbsp
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="5%"/> &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="5%"/>   &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%"/>   &nbsp &nbsp
+  <img src="https://github.com/VemAiensi/VemAiensi/blob/main/Assets/blender_icon_64x64.png" alt="blender" width="5%"/> &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="5%"/> &nbsp &nbsp
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>  &nbsp &nbsp
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="5%"/>&nbsp &nbsp
 </p>
 
 
@@ -41,16 +43,15 @@
 
 
 ## TECH ACHIEVEMENT:
-<img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="15"/>
-Power BI
+| <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="15"/> | Power BI |
+| --- | --- |
 
 * [Super Store Sales Report](https://app.powerbi.com/view?r=eyJrIjoiMTNkMmJjZGItZWY4YS00YWUzLThmOGQtZGMyMTE2MWMzMzFlIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
 * [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiMWQ0YmIzYjItNTYyZC00MDA2LTgxMWUtNWFjYmZjMTBiYTcxIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
 * [Soda Report](https://app.powerbi.com/view?r=eyJrIjoiYzIxM2EzZDctMzdiMy00OGRmLTg5NDItYjUxODVmMDVmZTFjIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
 
-<img src="https://img.icons8.com/?size=100&id=120409&format=png&color=000000" width="15"/>
-Design Patterns
-
+| <img src="https://img.icons8.com/?size=100&id=120409&format=png&color=000000" width="15"/> | Design Patterns
+|---|---|
 * [See Repo here](https://github.com/VemAiensi/Design-Patterns-Journey)
 
 ## SKILL SET:
