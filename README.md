@@ -55,11 +55,11 @@
 * [See Repo here](https://github.com/VemAiensi/Design-Patterns-Journey)
 
 ## SKILL SET:
-| Data Visualization | Languages | Dev Tools |
-| :--- | :---: | ---: |
-|  Power BI | Java | VS Code |
-| Tableau Public | Python | Lucid Chart |
-| | PHP | Jupyter Notebook|
+| Data Visualization | DBMS | Languages | Dev Tools | 
+| :--- | :---: | :---: | ---: |
+|  Power BI | IBM DB2| Java | VS Code |
+| Tableau Public | |  Python | Lucid Chart |
+| | | PHP | Jupyter Notebook|
 
 
 
