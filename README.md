@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/GitHub%20Banner.gif)
+![MasterHead](https://github.com/VemAiensi/VemAiensi/blob/main/Assets/VA_Banner.gif)
 
 <p align="left">
     <a href="https://www.linkedin.com/in/vem-aiensi-a-marasigan-869027258/">
@@ -13,7 +13,6 @@
 <p align="center"><i>Living in a complicated world of IT</i></p>
 
 <br>
-
 
 <h2 align="Center">📖 STUDYING 📖</h2>
 
@@ -32,41 +31,36 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="5%"/>&nbsp &nbsp
 </p>
 
-
-
 ## CERTIFICATES EARNED:
 
-* [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9A7C6DC465649783402FD05DE8EF133AE9EAF50961B0F42AB159DA4CD077D7B3)
-* [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F02DB10C92813FBF882F32E11E1E2FA934891415BD572E2082CE52C861492B60)
-* [SQL and Relational Database 101](https://courses.cognitiveclass.ai/certificates/16fec48d0d16496ca59defe1e5b2c92b)
-* [Business Analytics with Excel](https://simpli-web.app.link/e/G4wPXQ2M8Kb)
-* [Python for  Beginners](https://simpli-web.app.link/e/EFWXnnkgEMb)
-
+- [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9A7C6DC465649783402FD05DE8EF133AE9EAF50961B0F42AB159DA4CD077D7B3)
+- [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F02DB10C92813FBF882F32E11E1E2FA934891415BD572E2082CE52C861492B60)
+- [SQL and Relational Database 101](https://courses.cognitiveclass.ai/certificates/16fec48d0d16496ca59defe1e5b2c92b)
+- [Business Analytics with Excel](https://simpli-web.app.link/e/G4wPXQ2M8Kb)
+- [Python for Beginners](https://simpli-web.app.link/e/EFWXnnkgEMb)
 
 ## TECH ACHIEVEMENT:
+
 | <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="15"/> | Power BI |
-| --- | --- |
+| ------------------------------------------------------------------------------------------------ | -------- |
 
-* [Super Store Sales Report](https://app.powerbi.com/view?r=eyJrIjoiMTNkMmJjZGItZWY4YS00YWUzLThmOGQtZGMyMTE2MWMzMzFlIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
-* [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiMWQ0YmIzYjItNTYyZC00MDA2LTgxMWUtNWFjYmZjMTBiYTcxIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
-* [Soda Report](https://app.powerbi.com/view?r=eyJrIjoiYzIxM2EzZDctMzdiMy00OGRmLTg5NDItYjUxODVmMDVmZTFjIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
+- [Super Store Sales Report](https://app.powerbi.com/view?r=eyJrIjoiMTNkMmJjZGItZWY4YS00YWUzLThmOGQtZGMyMTE2MWMzMzFlIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
+- [Snack Report](https://app.powerbi.com/view?r=eyJrIjoiMWQ0YmIzYjItNTYyZC00MDA2LTgxMWUtNWFjYmZjMTBiYTcxIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D)
+- [Soda Report](https://app.powerbi.com/view?r=eyJrIjoiYzIxM2EzZDctMzdiMy00OGRmLTg5NDItYjUxODVmMDVmZTFjIiwidCI6ImE2NDgxYzM0LTU4MjItNDMyNy1iYjU5LWI5NDAyOTEzOTIxMyIsImMiOjEwfQ%3D%3D&embedImagePlaceholder=true)
 
-| <img src="https://img.icons8.com/?size=100&id=120409&format=png&color=000000" width="15"/> | Design Patterns
-|---|---|
-* [See Repo here](https://github.com/VemAiensi/Design-Patterns-Journey)
+| <img src="https://img.icons8.com/?size=100&id=120409&format=png&color=000000" width="15"/> | Design Patterns |
+| ------------------------------------------------------------------------------------------ | --------------- |
+
+- [See Repo here](https://github.com/VemAiensi/Design-Patterns-Journey)
 
 ## SKILL SET:
-| Data Visualization | DBMS | Languages | Dev Tools | 
-| :--- | :---: | :---: | ---: |
-|  Power BI | IBM DB2| Java | VS Code |
-| Tableau Public | |  Python | Lucid Chart |
-| | | PHP | Jupyter Notebook|
 
-
+| Data Visualization |  DBMS   | Languages |        Dev Tools |
+| :----------------- | :-----: | :-------: | ---------------: |
+| Power BI           | IBM DB2 |   Java    |          VS Code |
+| Tableau Public     |         |  Python   |      Lucid Chart |
+|                    |         |    PHP    | Jupyter Notebook |
 
 ## BIO:
 
-*Hello and thank you for visiting my profile!*
-
-
-
+_Hello and thank you for visiting my profile!_
