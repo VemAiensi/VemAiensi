@@ -1,7 +1,7 @@
 ![MasterHead](Assets/VA_Banner.gif)
 
 <p align="center"><i>"Living in a complicated world of IT pushing ideas further"</i></p>
-<hr>
+
 <p align="center" >
 - 
 <a href="https://www.linkedin.com/in/vem-aiensi/"><strong>Portfolio</strong></a> -
@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 align="center" >Tech Stack</h2>
+<h2 align="center" >TECH STACK</h2>
 
 **Full Stack Development**
 
@@ -51,7 +51,9 @@
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="css3" width="5%"/> &nbsp &nbsp
 </p>
 
-<h3 align="center">Github Stats</h3>
+<br>
+
+<h3 align="center">GITHUB STATS</h3>
 
 |                                                                                                                                               |                                                                                                    |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
