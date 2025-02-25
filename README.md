@@ -55,13 +55,13 @@
 
 <h3 align="center">GITHUB STATS</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=VemAiensi&theme=algolia&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&card_width=450) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VemAiensi&theme=algolia&card_width=350&hide_total_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=VemAiensi&theme=algolia&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&card_width=450) ![](https://github-readme-streak-stats.herokuapp.com?user=VemAiensi&theme=algolia&card_width=350&hide_total_contributions=true)
 <br>
 
-<h3>BIO:</h3>
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                    |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+
+| BIO                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | _**Hello There** 👋_ <br>![GitHub Views](https://komarev.com/ghpvc/?username=vemaiensi&color=00013E)<br><br>_I am a computer science student at New Era University and its been my 4rth year here. Things might not be as smooth as butter, but I still manage to do some hobbies of mine. I'm creating my of own space as well so, if you have the time, try visiting [Vibrant-Arrow](https://github.com/vibrant-arrow) as well._ <br><br> _Thanks for stopping by!_ | ![](Assets/Me.gif) |
 
 <br>
