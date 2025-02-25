@@ -1,4 +1,4 @@
-![MasterHead](Assets/VA_Banner.gif)
+<img src="Assets/VA_Banner.gif" alt="canva" width="100%"/>
 
 <p align="center"><i>"Living in a complicated world of IT pushing ideas further"</i></p>
 
@@ -12,11 +12,11 @@
 
 <br>
 
-<h2 align="center" >TECH STACK</h2>
+<h3 align="center" >TECH STACK</h2>
 
-**Full Stack Development**
+---
 
-<p align="left" >
+<p align="center" >
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="5%"/> &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="5%"/> &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="5%"/> &nbsp &nbsp
@@ -27,9 +27,8 @@
   <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
 </p>
 
-**Data Visualitions | DBMS**
 
-<p align="left" >
+<p align="center" >
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" width="5%"/> &nbsp &nbsp
   <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"  width="5%"/> &nbsp &nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="5%"/>  &nbsp &nbsp
@@ -38,9 +37,8 @@
 
 </p>
 
-**Foundations**
 
-<p align="left" >
+<p align="center" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="5%"/>  &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="5%"/>&nbsp &nbsp
@@ -55,14 +53,17 @@
 
 <h3 align="center">GITHUB STATS</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=VemAiensi&theme=algolia&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&card_width=450) ![](https://github-readme-streak-stats.herokuapp.com?user=VemAiensi&theme=algolia&card_width=350&hide_total_contributions=true)
+
+
+| ![](https://github-readme-stats.vercel.app/api?username=VemAiensi&theme=algolia&hide_border=false&show_icons=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com?user=vemaiensi&theme=algolia) |
+| ---: | :--- |
 <br>
 
+### BIO
 
-
-| BIO                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                    |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | _**Hello There** 👋_ <br>![GitHub Views](https://komarev.com/ghpvc/?username=vemaiensi&color=00013E)<br><br>_I am a computer science student at New Era University and its been my 4rth year here. Things might not be as smooth as butter, but I still manage to do some hobbies of mine. I'm creating my of own space as well so, if you have the time, try visiting [Vibrant-Arrow](https://github.com/vibrant-arrow) as well._ <br><br> _Thanks for stopping by!_ | ![](Assets/Me.gif) |
+| :--- | --- |
+
 
 <br>
 <br>
