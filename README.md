@@ -1,4 +1,4 @@
-![MasterHead](Assets/VA_Banner.gif)
+![MasterHead](ReadMeAssets/VA_Banner.gif)
 
 <p align="center"><i>"Living in a complicated world of IT pushing ideas further"</i></p>
 
@@ -20,7 +20,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="5%"/> &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="5%"/> &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="5%"/> &nbsp &nbsp
-  <img src="Assets/svgator.svg" alt="blender" width="5%"/> &nbsp &nbsp
+  <img src="ReadMeAssets/svgator.svg" alt="blender" width="5%"/> &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="figma" width="5%"/> &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="git" width="5%"/> &nbsp &nbsp
@@ -55,17 +55,14 @@
 
 <h3 align="center">GITHUB STATS</h3>
 
-|                                                                                                                                               |                                                                                                    |
-| :-------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
-| ![](https://github-readme-stats.vercel.app/api?username=VemAiensi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=vemaiensi&theme=dark&hide_border=false) |
-
+![](https://github-readme-stats.vercel.app/api?username=VemAiensi&theme=algolia&hide_border=false&show_icons=true&include_all_commits=false&count_private=false&card_width=450) ![](https://github-readme-streak-stats.herokuapp.com?user=VemAiensi&theme=algolia&hide_border=false&date_format=j%20M%5B%20Y%5D&card_width=400)
 <br>
 
 <h3>BIO:</h3>
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| _**Hello There** 👋_ <br>![GitHub Views](https://komarev.com/ghpvc/?username=vemaiensi&color=00013E)<br><br>_I am a computer science student at New Era University and its been my 4rth year here. Things might not be as smooth as butter, but I still manage to do some hobbies of mine. I'm creating my of own space as well so, if you have the time, try visiting [Vibrant-Arrow](https://github.com/vibrant-arrow) as well._ <br><br> _Thanks for stopping by!_ | ![](Assets/Untitled.gif) |
+| _**Hello There** 👋_ <br>![GitHub Views](https://komarev.com/ghpvc/?username=vemaiensi&color=00013E)<br><br>_I am a computer science student at New Era University and its been my 4rth year here. Things might not be as smooth as butter, but I still manage to do some hobbies of mine. I'm creating my of own space as well so, if you have the time, try visiting [Vibrant-Arrow](https://github.com/vibrant-arrow) as well._ <br><br> _Thanks for stopping by!_ | ![](ReadMeAssets/Me.gif) |
 
 <br>
 <br>
