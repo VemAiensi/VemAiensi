@@ -4,9 +4,7 @@
 
 <p align="center" >
 - 
-<a href="https://www.linkedin.com/in/vem-aiensi/"><strong>Portfolio</strong></a> -
-<a href="https://www.linkedin.com/in/vem-aiensi/"><strong>Certificates</strong></a> -
-<a href="https://www.linkedin.com/in/vem-aiensi/"><strong>Projects</strong></a> -
+<a href="vemaiensi-profile.pages.dev"><strong>Portfolio Website</strong></a> -
 
 </p>
 
