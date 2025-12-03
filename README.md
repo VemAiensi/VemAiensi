@@ -59,7 +59,7 @@
 
 ### BIO
 
-| _**Hello There** 👋_ <br>![GitHub Views](https://komarev.com/ghpvc/?username=vemaiensi&color=00013E)<br><br>_I am a computer science student at New Era University and its been my 4rth year here. Things might not be as smooth as butter, but I still manage to do some hobbies of mine. I'm creating my of own space as well so, if you have the time, try visiting [Vibrant-Arrow](https://github.com/vibrant-arrow) as well._ <br><br> _Thanks for stopping by!_ | ![](Assets/Me.gif) |
+| _**Hello There** 👋_ <br>![GitHub Views](https://komarev.com/ghpvc/?username=vemaiensi&color=00013E)<br><br>_I am a computer science student at New Era University and its been my 4th year here. Things might not be as smooth as butter, but I still manage to do some hobbies of mine. I'm creating my of own space as well so, if you have the time, try visiting [Vibrant-Arrow](https://github.com/vibrant-arrow) as well._ <br><br> _Thanks for stopping by!_ | ![](Assets/Me.gif) |
 | :--- | --- |
 
 
