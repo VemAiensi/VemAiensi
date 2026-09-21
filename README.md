@@ -48,31 +48,3 @@
 </p>
 
 <br>
-
-<h3 align="center">GITHUB STATS</h3>
-
-
-
-| ![](https://github-readme-stats.vercel.app/api?username=VemAiensi&theme=algolia&hide_border=false&show_icons=true&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com?user=vemaiensi&theme=algolia) |
-| ---: | :--- |
-<br>
-
-### BIO
-
-| _**Hello There** 👋_ <br>![GitHub Views](https://komarev.com/ghpvc/?username=vemaiensi&color=00013E)<br><br>_I am a computer science student at New Era University and its been my 4th year here. Things might not be as smooth as butter, but I still manage to do some hobbies of mine. I'm creating my of own space as well so, if you have the time, try visiting [Vibrant-Arrow](https://github.com/vibrant-arrow) as well._ <br><br> _Thanks for stopping by!_ | ![](Assets/Me.gif) |
-| :--- | --- |
-
-
-<br>
-<br>
-
-<p align="center">
-    Reach me through:
-    <br>
-    <a href="https://www.linkedin.com/in/vem-aiensi/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto: vem.aiensi@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Website"></a>
-    <a href="https://t.me/Vinc3203">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</p>
